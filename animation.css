@@ -1,0 +1,145 @@
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+.logo {
+    animation: fadeIn 2s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    opacity: 0; /* Start with the element hidden */
+    animation: fadeIn 2s ease-in-out forwards; /* Apply the fade-in animation */
+}
+
+.curved-img {
+    border-radius: 18px; /* Adjust the value as needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow around the image */
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.logo {
+    animation: fadeIn 2s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+.curved-img, .text-box {
+    animation: fadeIn 2s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.curved-img, .text-box {
+    animation: fadeIn 2s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    opacity: 0; /* Start with the element hidden */
+    animation: fadeIn 2s ease-in-out forwards; /* Apply the fade-in animation */
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    opacity: 0; /* Start with the element hidden */
+    animation: fadeIn 2s ease-in-out forwards; /* Apply the fade-in animation */
+}
+
+.curved-img {
+    border-radius: 15px; /* Adjust the value as needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow around the image */
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    opacity: 0; /* Start with the element hidden */
+    animation: fadeIn 2s ease-in-out forwards; /* Apply the fade-in animation */
+}
+
+.curved-img {
+    border-radius: 15px; /* Adjust the value as needed */
+    box-shadow: -10px 10px 20px rgba(0, 0, 0, 0.5), -10px 10px 20px rgba(255, 255, 255, 0.5); /* Add shadow from bottom-left corner */
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    opacity: 0; /* Start with the element hidden */
+    animation: fadeIn 2s ease-in-out forwards; /* Apply the fade-in animation */
+}
+
+.curved-img {
+    border-radius: 15px; /* Adjust the value as needed */
+    box-shadow: -10px 10px 20px rgba(0, 0, 0, 0.5), -10px 10px 20px rgba(255, 255, 255, 0.5); /* Add shadow from bottom-left corner */
+}
+
+.shadow-text {
+    text-shadow: -2px 2px 4px rgba(0, 0, 0, 0.5), -2px 2px 4px rgba(255, 255, 255, 0.5); /* Add shadow to text */
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    opacity: 0; /* Start with the element hidden */
+    animation: fadeIn 2s ease-in-out forwards; /* Apply the fade-in animation */
+}
+
+.shadow-text {
+    text-shadow: -2px 2px 4px rgba(0, 0, 0, 0.5), -2px 2px 4px rgba(255, 255, 255, 0.5); /* Add shadow to text */
+}
+

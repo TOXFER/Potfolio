@@ -1,0 +1,34 @@
+.photo-grid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.photo-grid .row {
+	display: flex;
+	width: 100%;
+}
+
+.photo-grid .col {
+	flex: 1;
+	padding: 5px;
+	box-sizing: border-box;
+}
+
+.photo-img {
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+	border-radius: 15px; /* Add this line */
+}
+
+.about-images {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+
+.about-img {
+	width: 30%;
+	border-radius: 15px;
+}
